@@ -1,2 +1,2 @@
-# diploma
-Repozitorij za razvoj aplikacije v programskem jeziku Go. Uporabljal bom Google Cloud ponudnika oblačnih storitev.
+# Go modules experimenting
+A simple Go function to experiment with deploying functions with dependent modules from submodules.
