@@ -1,7 +1,7 @@
 package noDBExp
 
 import (
-	"github.com/makuc/diploma/modules/mytest"
+	"github.com/makuc/go-mod-exp/modules/mytest"
 	"net/http"
 )
 
